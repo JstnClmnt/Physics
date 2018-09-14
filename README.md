@@ -1,4 +1,4 @@
-Physics-Computer-Science
+**Physics+Computer-Science+Mathematics**
 
 This is my repository for everything including physics,computer science, and mathematics
 
